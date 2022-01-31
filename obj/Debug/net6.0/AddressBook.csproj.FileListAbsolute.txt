@@ -1,0 +1,15 @@
+C:\Users\ELCOT\source\repos\AddressBook\AddressBook\bin\Debug\net6.0\AddressBook.exe
+C:\Users\ELCOT\source\repos\AddressBook\AddressBook\bin\Debug\net6.0\AddressBook.deps.json
+C:\Users\ELCOT\source\repos\AddressBook\AddressBook\bin\Debug\net6.0\AddressBook.runtimeconfig.json
+C:\Users\ELCOT\source\repos\AddressBook\AddressBook\bin\Debug\net6.0\AddressBook.dll
+C:\Users\ELCOT\source\repos\AddressBook\AddressBook\bin\Debug\net6.0\ref\AddressBook.dll
+C:\Users\ELCOT\source\repos\AddressBook\AddressBook\bin\Debug\net6.0\AddressBook.pdb
+C:\Users\ELCOT\source\repos\AddressBook\AddressBook\obj\Debug\net6.0\AddressBook.csproj.AssemblyReference.cache
+C:\Users\ELCOT\source\repos\AddressBook\AddressBook\obj\Debug\net6.0\AddressBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ELCOT\source\repos\AddressBook\AddressBook\obj\Debug\net6.0\AddressBook.AssemblyInfoInputs.cache
+C:\Users\ELCOT\source\repos\AddressBook\AddressBook\obj\Debug\net6.0\AddressBook.AssemblyInfo.cs
+C:\Users\ELCOT\source\repos\AddressBook\AddressBook\obj\Debug\net6.0\AddressBook.csproj.CoreCompileInputs.cache
+C:\Users\ELCOT\source\repos\AddressBook\AddressBook\obj\Debug\net6.0\AddressBook.dll
+C:\Users\ELCOT\source\repos\AddressBook\AddressBook\obj\Debug\net6.0\ref\AddressBook.dll
+C:\Users\ELCOT\source\repos\AddressBook\AddressBook\obj\Debug\net6.0\AddressBook.pdb
+C:\Users\ELCOT\source\repos\AddressBook\AddressBook\obj\Debug\net6.0\AddressBook.genruntimeconfig.cache
